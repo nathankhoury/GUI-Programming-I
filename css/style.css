@@ -1,13 +1,36 @@
+/* text classes */
 .formattedText {
     text-align: center;
     margin-right: 200px;
     margin-left: 200px;
 }
 
+.leftAlignText {
+    text-align: left;
+}
+
+.gapAboveEZGifCredit {  
+    padding-top: 200px;
+}   /* specific use case: text crediting ezgif on index.html */
+
+/* table classes */
 .centeredTable {
     margin: auto;
 }
 
+.tableBorder {
+    border: 1px solid;
+}
+
+.fixedTableWidth {
+    width: 750px;
+}
+
+.fixedColumnWidth {
+    width: 30%;
+}
+
+/* image classes */
 .squareAnimatedIcon {
     width: 150px;
     height: 150px;
@@ -15,6 +38,27 @@
     margin: auto;
 }
 
+.squareLgIcon {
+    width: 250px;
+    height: 250px;
+}
+
+.squareSmIcon {
+    width: 150px;
+    height: 150px;
+}
+
+.imageAlignRight {
+    float: right;
+    padding-left: 10px;
+}
+
+.imageAlignLeft {
+    float: left;
+    padding-right: 10px;
+}
+
+/* background classes */
 .backgroundMain {
     background-color: rgb(218, 207, 254);
 }
