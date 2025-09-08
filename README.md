@@ -1,2 +1,2 @@
-# GUI Programming I
-My repository containing the projects I developed in my GUI Programming I course
+# Notice!
+As a result of following the [provided GitHub tutorial](https://www.youtube.com/watch?v=Q6HbQRWAMM4), this branch no longer contains any significant information regarding my site! Please navigate to the "gh-pages" branch. Thank you! :)
