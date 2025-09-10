@@ -1,4 +1,15 @@
-/* text classes */
+/*
+File:           style.css
+Class:          COMP 4610 GUI Programming I
+Assignment:     HW1, "Set up, GitHub and First Web Page"
+Name:           Nathan Khoury
+Created:        9/8/2025
+Last Modified:  9/10/2025
+
+style sheet including all the classes I created to aid in the visual presentation of my webpages
+*/
+
+/* All classes pertaining to the TEXT on my webpages */
 .formattedText {
     text-align: center;
     margin-right: 200px;
@@ -14,7 +25,7 @@
     padding-top: 200px;
 }   /* specific use case: text crediting ezgif on index.html */
 
-/* table classes */
+/* All classes pertaining to the TABLES on my webpages */
 .centeredTable {
     margin: auto;
 }
@@ -31,7 +42,7 @@
     width: 30%;
 }
 
-/* image classes */
+/* All classes pertaining to the IMAGES on my webpages */
 .squareAnimatedIcon {
     width: 150px;
     height: 150px;
@@ -59,7 +70,7 @@
     padding-right: 10px;
 }
 
-/* background classes */
+/* All classes pertaining to the BACKGROUND of my webpages */
 .backgroundMain {
     background-color: rgb(218, 207, 254);
 }
